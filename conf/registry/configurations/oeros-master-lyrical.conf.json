@@ -4,8 +4,8 @@
         "bitbake": {
             "git-remote": {
                 "uri": "https://git.openembedded.org/bitbake",
-                "branch": "2.18",
-                "rev": "2.18"
+                "branch": "2.20",
+                "rev": "2.20"
             }
         },
         "openembedded-core": {
