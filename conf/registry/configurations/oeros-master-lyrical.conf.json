@@ -24,9 +24,9 @@
         },
         "meta-oeros": {
             "git-remote": {
-                "uri": "https://github.com/oerosproject/meta-oeros.git",
-                "branch": "master",
-                "rev": "master"
+                "uri": "https://github.com/vermaete/meta-oeros.git",
+                "branch": "wrynose",
+                "rev": "wrynose"
             }
         },
         "meta-openembedded": {
