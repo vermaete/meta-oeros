@@ -45,9 +45,9 @@
         },
         "meta-qt6": {
             "git-remote": {
-                "uri": "https://code.qt.io/yocto/meta-qt6.git",
-                "branch": "6.11",
-                "rev": "6.11"
+                "uri": "https://github.com/YoeDistro/meta-qt6.git",
+                "branch": "yoe/6.12",
+                "rev": "yoe/6.12"
             }
         },
         "meta-raspberrypi": {
